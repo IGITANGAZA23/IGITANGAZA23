@@ -74,7 +74,7 @@ I’m a code-wielding wizard with a full stack arsenal!
 
 <!-- Gmail (original logo) -->
 <a href="mailto:igitangazanobleprince@gmail.com">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="40" margin-right:10px/>
 </a>
 
 ---
