@@ -56,14 +56,7 @@ I’m a code-wielding wizard with a full stack arsenal!
 - 🎧 Lo-fi, epic soundtracks, and sometimes silence for ultimate focus
 - 🏃‍♂️ Morning jogger – clears the mind, sharpens the code
 - 🧩 Puzzle lover – if it’s hard, I’m probably already obsessed
-- 📚 Always learning new spells – currently exploring **GraphQL & Next.js**
-
----
-
-## 📫 Connect with Me
-<a href="https://www.instagram.com/n.o.b.l.e___/"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" height="40"/></a>
-<a href="https://x.com/IgitangazaNoble"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" height="40"/></a>
-<a href="mailto:igitangazanobleprince@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" height="40"/></a>
+- 📚 Always learning new spells – currently exploring **GraphQL & Next.js*
 
 ---
 
