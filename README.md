@@ -64,7 +64,7 @@ I’m a code-wielding wizard with a full stack arsenal!
 
 <!-- Instagram (purple gradient) -->
 <a href="https://www.instagram.com/n.o.b.l.e___/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" height="40" margin-right:10px/>
 </a>
 
 <!-- X (Twitter) -->
