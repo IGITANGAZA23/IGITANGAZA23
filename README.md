@@ -69,7 +69,7 @@ I’m a code-wielding wizard with a full stack arsenal!
 
 <!-- X (Twitter) -->
 <a href="https://x.com/IgitangazaNoble">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" height="40" margin-right:10px/>
 </a>
 
 <!-- Gmail (original logo) -->
