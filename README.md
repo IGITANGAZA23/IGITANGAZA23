@@ -46,7 +46,7 @@ I’m a code-wielding wizard with a full stack arsenal!
 
 ### Tools & Platforms
 <a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" margin-right:16px/></a>
-<a href="https://github.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" margin-right:16px/></a>
+<a href="https://github.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" margin-right:16px/></a>
 <a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" margin-right:16px/></a>
 <a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" margin-right:16px/></a>
 
@@ -64,17 +64,17 @@ I’m a code-wielding wizard with a full stack arsenal!
 
 <!-- Instagram (purple gradient) -->
 <a href="https://www.instagram.com/n.o.b.l.e___/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" height="40" margin-right:10px/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" height="60" margin-right:16px/>
 </a>
 
 <!-- X (Twitter) -->
 <a href="https://x.com/IgitangazaNoble">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" height="40" margin-right:10px/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" height="60" margin-right:16px/>
 </a>
 
 <!-- Gmail (original logo) -->
 <a href="mailto:igitangazanobleprince@gmail.com">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="40" margin-right:10px/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="60" margin-right:16px/>
 </a>
 
 ---
