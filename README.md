@@ -1,7 +1,17 @@
-# Hey there! I'm IGITANGAZA ✨
+# ✨ Hey there! I'm IGITANGAZA 🪄
 
 Just a **Tech Magician** waving my magic wand over code, turning coffee ☕ into web apps and blockchain spells.  
-I love building stuff, breaking stuff (sometimes intentionally), and learning all the crazy cool things in tech.  
+When I'm not coding, I'm just gaming 🎮 or cooking up moves on the football pitch ⚽.
+
+---
+
+## 🪄 Tech Magician | Full Stack Developer
+
+I’m a code-wielding wizard with a full stack arsenal!  
+- 💻 **Frontend & Backend:** MERN stack wizardry (Node.js, Express, React, MongoDB) and Java backend mastery  
+- 🌐 **Blockchain Explorer:** Currently casting smart contract spells in Solidity  
+- ⚡ Always blending magic with logic, turning caffeine into features and ideas into apps  
+- 🎩 Fun perk: can juggle multiple projects while listening to epic soundtracks 🎶  
 
 ---
 
@@ -17,63 +27,46 @@ I love building stuff, breaking stuff (sometimes intentionally), and learning al
 ## 🛠️ My Tech & Magic Stack
 
 ### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+[![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)](https://developer.mozilla.org/docs/Web/HTML)
+[![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)](https://developer.mozilla.org/docs/Web/CSS)
+[![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)](https://developer.mozilla.org/docs/Web/JavaScript)
+[![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)](https://reactjs.org/)
+[![Tailwind CSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg)](https://tailwindcss.com/)
+[![Next.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg)](https://nextjs.org/)
 
 ### Backend & Blockchain
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+[![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg)](https://nodejs.org/)
+[![Express](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg)](https://expressjs.com/)
+[![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)](https://www.java.com/)
+[![Solidity](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg)](https://soliditylang.org/)
+[![Rust](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg)](https://www.rust-lang.org/)
+[![Go](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg)](https://golang.org/)
 
 ### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+[![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg)](https://www.mongodb.com/)
+[![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg)](https://www.mysql.com/)
 
 ### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+[![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)](https://git-scm.com/)
+[![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)](https://github.com/)
+[![VS Code](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg)](https://code.visualstudio.com/)
+[![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg)](https://www.docker.com/)
 
 ---
 
 ## 🌟 Fun Facts
 - 🎧 Lo-fi, epic soundtracks, and sometimes silence for ultimate focus
-- 📚 Always learning new spells – currently exploring **Rust & Go**
-
----
-
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Igitangaza23&show_icons=true&hide_border=true&theme=radical)
+- 🏃‍♂️ Morning jogger – clears the mind, sharpens the code
+- 🧩 Puzzle lover – if it’s hard, I’m probably already obsessed
+- 📚 Always learning new spells – currently exploring **GraphQL & Next.js**
 
 ---
 
 ## 📫 Connect with Me
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/IGITANGAZA23)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/IGITANGAZA23)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:IGITANGAZA23@gmail.com)
+[![Instagram](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg)](https://www.instagram.com/n.o.b.l.e___/)
+[![X](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg)](https://x.com/IgitangazaNoble)
+[![Email](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg)](mailto:igitangazanobleprince@gmail.com)
 
 ---
 
 ✨ Let's create some magic together!
-
-
-<!--
-**IGITANGAZA23/IGITANGAZA23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
