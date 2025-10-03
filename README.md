@@ -27,30 +27,30 @@ I’m a code-wielding wizard with a full stack arsenal!
 ## 🛠️ My Tech & Magic Stack
 
 ### Frontend
-[![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)](https://developer.mozilla.org/docs/Web/HTML)
-[![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)](https://developer.mozilla.org/docs/Web/CSS)
-[![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)](https://developer.mozilla.org/docs/Web/JavaScript)
-[![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)](https://reactjs.org/)
-[![Tailwind CSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg)](https://tailwindcss.com/)
-[![Next.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg)](https://nextjs.org/)
+<a href="https://developer.mozilla.org/docs/Web/HTML"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/></a>
+<a href="https://developer.mozilla.org/docs/Web/CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/></a>
+<a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/></a>
+<a href="https://reactjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/></a>
+
+<a href="https://nextjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40"/></a>
 
 ### Backend & Blockchain
-[![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg)](https://nodejs.org/)
-[![Express](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg)](https://expressjs.com/)
-[![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)](https://www.java.com/)
-[![Solidity](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg)](https://soliditylang.org/)
-[![Rust](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg)](https://www.rust-lang.org/)
-[![Go](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg)](https://golang.org/)
+<a href="https://nodejs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/></a>
+<a href="https://expressjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/></a>
+<a href="https://www.java.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/></a>
+<a href="https://soliditylang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="40"/></a>
+
+<a href="https://golang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40"/></a>
 
 ### Database
-[![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg)](https://www.mongodb.com/)
-[![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg)](https://www.mysql.com/)
+<a href="https://www.mongodb.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/></a>
+<a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/></a>
 
 ### Tools & Platforms
-[![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)](https://git-scm.com/)
-[![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)](https://github.com/)
-[![VS Code](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg)](https://code.visualstudio.com/)
-[![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg)](https://www.docker.com/)
+<a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/></a>
+<a href="https://github.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/></a>
+<a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/></a>
+<a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/></a>
 
 ---
 
@@ -63,9 +63,9 @@ I’m a code-wielding wizard with a full stack arsenal!
 ---
 
 ## 📫 Connect with Me
-[![Instagram](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg)](https://www.instagram.com/n.o.b.l.e___/)
-[![X](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg)](https://x.com/IgitangazaNoble)
-[![Email](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg)](mailto:igitangazanobleprince@gmail.com)
+<a href="https://www.instagram.com/n.o.b.l.e___/"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" height="40"/></a>
+<a href="https://x.com/IgitangazaNoble"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" height="40"/></a>
+<a href="mailto:igitangazanobleprince@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" height="40"/></a>
 
 ---
 
