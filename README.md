@@ -19,7 +19,7 @@ I’m a code-wielding wizard with a full stack arsenal!
 - 💻 Turning ideas into **full-stack reality**
 - 🌱 Currently casting spells in **Node.js, React, TypeScript, Solidity, Rust, and Go**
 - ⚡ Fun fact: I can code faster than my cat can steal my snacks 🐱
-- 🎮 Gamer & problem solver – coding puzzles are m
+- 🎮 Gamer & problem solver – coding puzzles are 
 - 🌍 Open to collaborations, challenges, and magic duels
 
 ---
