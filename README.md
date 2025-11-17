@@ -8,7 +8,7 @@ When I'm not coding, I'm just gaming 🎮 or cooking up moves on the football pi
 ## 🪄 Tech Magician | Full Stack Developer
 
 I’m a code-wielding wizard with a full stack arsenal!  
-- 💻 **Frontend & Backend:** MERN stack wizardry (Node.js, Express, React, MongoDB) and Java backend mastery  
+- 💻 **Frontend & Backend:** MERN stack wizardry (Node.js, Express, React, MongoDB) , Nest and Java backend mastery  
 - 🌐 **Blockchain Explorer:** Currently casting smart contract spells in Solidity  
 - ⚡ Always blending magic with logic, turning caffeine into features and ideas into apps  
 - 🎩 Fun perk: can juggle multiple projects while listening to epic soundtracks 🎶  
@@ -16,8 +16,8 @@ I’m a code-wielding wizard with a full stack arsenal!
 ---
 
 ## 🚀 About Me
-- 💻 Turning ideas into **full-stack reality**
-- 🌱 Currently casting spells in **Node.js, React, TypeScript, Solidity, Rust, and Go**
+- 💻 Turning ideas into **reality**
+- 🌱 Currently casting spells in **Node.js, React, TypeScript, Nest ,Solidity**
 - ⚡ Fun fact: I can code faster than my cat can steal my snacks 🐱
 - 🌍 Open to collaborations, challenges, and magic duels
 
@@ -51,13 +51,6 @@ I’m a code-wielding wizard with a full stack arsenal!
 
 ---
 
-## 🌟 Fun Facts
-- 🎧 Lo-fi, epic soundtracks, and sometimes silence for ultimate focus
-- 🏃‍♂️ Morning jogger – clears the mind, sharpens the code
-- 🧩 Puzzle lover – if it’s hard, I’m probably already obsessed
-- 📚 Always learning new spells – currently exploring **GraphQL & Next.js*
-
----
 
 ## 📫 Connect with Me
 
