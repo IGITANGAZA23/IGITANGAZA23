@@ -7,6 +7,12 @@ Exploring advanced, current, and emerging technologies—especially where **AI**
 I build and ship AI-driven solutions with one mindset: **minimum process, maximum delivery**.  
 Open to meaningful collaboration and ambitious ideas.  
 
+### Connect
+
 <a href="https://www.instagram.com/n.o.b.l.e___/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" height="28" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" height="24" />
+</a>
+&nbsp;
+<a href="mailto:igitangazanobleprince@gmail.com">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="24" />
 </a>
