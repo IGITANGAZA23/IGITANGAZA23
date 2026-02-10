@@ -1,5 +1,3 @@
-# IGITANGAZA
-
 Backend developer focused on **NestJS** and **Java**, building systems that move from idea to production—fast and clean.  
 I design reliable APIs, scalable architectures, and practical solutions that solve real problems without noise.  
 Working across a lean stack: **TypeScript, Node.js, Java, PostgreSQL/MongoDB, Docker, Git**.  
