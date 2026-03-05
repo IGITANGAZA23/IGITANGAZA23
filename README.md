@@ -1,4 +1,4 @@
-Backend developer focused on **NestJS** and **Java** and other backend technologies and frameworks, building systems that move from idea to production—fast and clean.  
+Software developer focused on building systems that move from idea to production—fast and clean.  
 I design reliable APIs and scalable architectures that solve real problems without noise.
 
 Part of **Entelon**, a team transforming everyday services into intelligent, AI-driven digital solutions already used in the real market.
